@@ -78,4 +78,7 @@
     .nav-link{
       @apply ml-12 font-medium text-lg text-gray-700;
     }
+    .nuxt-link-exact-active {
+      @apply text-primary;
+    }
 </style>
